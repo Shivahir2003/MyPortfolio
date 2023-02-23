@@ -17,7 +17,7 @@ namespace MyPortfolio.Controllers
         {
             return View();
         }
-        cdcxzcc
+        
         
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
