@@ -1,0 +1,1377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\check.css",
+      "PackagePath": "staticwebassets\\css\\check.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color.css",
+      "PackagePath": "staticwebassets\\css\\color.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-1.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-1.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-10.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-10.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-11.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-11.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-12.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-12.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-13.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-13.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-2.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-2.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-3.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-3.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-4.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-4.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-5.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-5.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-6.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-6.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-7.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-7.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-8.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-8.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\color-9.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-9.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index.html",
+      "PackagePath": "staticwebassets\\css\\color\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index0389.html",
+      "PackagePath": "staticwebassets\\css\\color\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index2a60.html",
+      "PackagePath": "staticwebassets\\css\\color\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index350b.html",
+      "PackagePath": "staticwebassets\\css\\color\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index38f9.html",
+      "PackagePath": "staticwebassets\\css\\color\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index3dd6.html",
+      "PackagePath": "staticwebassets\\css\\color\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index7dc1.html",
+      "PackagePath": "staticwebassets\\css\\color\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\index9a11.html",
+      "PackagePath": "staticwebassets\\css\\color\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\color\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\css\\color\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index.html",
+      "PackagePath": "staticwebassets\\css\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index0389.html",
+      "PackagePath": "staticwebassets\\css\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index2a60.html",
+      "PackagePath": "staticwebassets\\css\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index350b.html",
+      "PackagePath": "staticwebassets\\css\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index38f9.html",
+      "PackagePath": "staticwebassets\\css\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index3dd6.html",
+      "PackagePath": "staticwebassets\\css\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index7dc1.html",
+      "PackagePath": "staticwebassets\\css\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\index9a11.html",
+      "PackagePath": "staticwebassets\\css\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\css\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\jquery.pagepiling.css",
+      "PackagePath": "staticwebassets\\css\\jquery.pagepiling.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index.html",
+      "PackagePath": "staticwebassets\\fonts\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index0389.html",
+      "PackagePath": "staticwebassets\\fonts\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index2a60.html",
+      "PackagePath": "staticwebassets\\fonts\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index350b.html",
+      "PackagePath": "staticwebassets\\fonts\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index38f9.html",
+      "PackagePath": "staticwebassets\\fonts\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index3dd6.html",
+      "PackagePath": "staticwebassets\\fonts\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index7dc1.html",
+      "PackagePath": "staticwebassets\\fonts\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\index9a11.html",
+      "PackagePath": "staticwebassets\\fonts\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\fonts\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\fonts\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\03.png",
+      "PackagePath": "staticwebassets\\images\\about\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index.html",
+      "PackagePath": "staticwebassets\\images\\about\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\about\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\about\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\about\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\about\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\about\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\about\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\about\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\about\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\about\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\03.png",
+      "PackagePath": "staticwebassets\\images\\background\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index.html",
+      "PackagePath": "staticwebassets\\images\\background\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\background\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\background\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\background\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\background\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\background\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\background\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\background\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\background\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\background\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-10.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-6.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-7.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-8.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\bg-9.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-image\\bg-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\1.png",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\2.png",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\3.png",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\4.png",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\5.png",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\bg-image\\pattern\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\bg-image\\pattern\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\blog\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\blog\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\blog\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\01.png",
+      "PackagePath": "staticwebassets\\images\\comments\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\02.png",
+      "PackagePath": "staticwebassets\\images\\comments\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\03.png",
+      "PackagePath": "staticwebassets\\images\\comments\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\04.png",
+      "PackagePath": "staticwebassets\\images\\comments\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\comments\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\comments\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\comments\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\education\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\education\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\education\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\education\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\education\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\education\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index.html",
+      "PackagePath": "staticwebassets\\images\\education\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\education\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\education\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\education\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\education\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\education\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\education\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\education\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\education\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\education\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\fancybox\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\fancybox\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\fancybox\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\footer.png",
+      "PackagePath": "staticwebassets\\images\\footer.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index.html",
+      "PackagePath": "staticwebassets\\images\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\1.png",
+      "PackagePath": "staticwebassets\\images\\logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\10.png",
+      "PackagePath": "staticwebassets\\images\\logo\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\11.png",
+      "PackagePath": "staticwebassets\\images\\logo\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\12.png",
+      "PackagePath": "staticwebassets\\images\\logo\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\13.png",
+      "PackagePath": "staticwebassets\\images\\logo\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\14.png",
+      "PackagePath": "staticwebassets\\images\\logo\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\15.png",
+      "PackagePath": "staticwebassets\\images\\logo\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\16.png",
+      "PackagePath": "staticwebassets\\images\\logo\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\17.png",
+      "PackagePath": "staticwebassets\\images\\logo\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\18.png",
+      "PackagePath": "staticwebassets\\images\\logo\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\19.png",
+      "PackagePath": "staticwebassets\\images\\logo\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\20.png",
+      "PackagePath": "staticwebassets\\images\\logo\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\21.png",
+      "PackagePath": "staticwebassets\\images\\logo\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\22.png",
+      "PackagePath": "staticwebassets\\images\\logo\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\23.png",
+      "PackagePath": "staticwebassets\\images\\logo\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\24.png",
+      "PackagePath": "staticwebassets\\images\\logo\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\25.png",
+      "PackagePath": "staticwebassets\\images\\logo\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\26.png",
+      "PackagePath": "staticwebassets\\images\\logo\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\27.png",
+      "PackagePath": "staticwebassets\\images\\logo\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\28.png",
+      "PackagePath": "staticwebassets\\images\\logo\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\29.png",
+      "PackagePath": "staticwebassets\\images\\logo\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\3.png",
+      "PackagePath": "staticwebassets\\images\\logo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\30.png",
+      "PackagePath": "staticwebassets\\images\\logo\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\31.png",
+      "PackagePath": "staticwebassets\\images\\logo\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\32.png",
+      "PackagePath": "staticwebassets\\images\\logo\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\33.png",
+      "PackagePath": "staticwebassets\\images\\logo\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\34.png",
+      "PackagePath": "staticwebassets\\images\\logo\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\35.png",
+      "PackagePath": "staticwebassets\\images\\logo\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\36.png",
+      "PackagePath": "staticwebassets\\images\\logo\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\37.png",
+      "PackagePath": "staticwebassets\\images\\logo\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\38.png",
+      "PackagePath": "staticwebassets\\images\\logo\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\39.png",
+      "PackagePath": "staticwebassets\\images\\logo\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\4.png",
+      "PackagePath": "staticwebassets\\images\\logo\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\40.png",
+      "PackagePath": "staticwebassets\\images\\logo\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\41.png",
+      "PackagePath": "staticwebassets\\images\\logo\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\42.png",
+      "PackagePath": "staticwebassets\\images\\logo\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\5.png",
+      "PackagePath": "staticwebassets\\images\\logo\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\6.png",
+      "PackagePath": "staticwebassets\\images\\logo\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\7.png",
+      "PackagePath": "staticwebassets\\images\\logo\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\8.png",
+      "PackagePath": "staticwebassets\\images\\logo\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\9.png",
+      "PackagePath": "staticwebassets\\images\\logo\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\logo\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\logo\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\logo\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\pattan.png",
+      "PackagePath": "staticwebassets\\images\\pattan.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\portfolio\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\portfolio\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\recent-post\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\recent-post\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\recent-post\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\recent-post\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\recent-post\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\recent-post\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\slider\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\slider\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\slider\\tinified.zip",
+      "PackagePath": "staticwebassets\\images\\slider\\tinified.zip"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index.html",
+      "PackagePath": "staticwebassets\\images\\team\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\team\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\team\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\team\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\team\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\team\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\team\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\team\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\team\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\team\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\clone.png",
+      "PackagePath": "staticwebassets\\images\\testimonial\\clone.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index0389.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index2a60.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index350b.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index38f9.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index3dd6.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index7dc1.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\index9a11.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\testimonial\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\images\\testimonial\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\video.jpg",
+      "PackagePath": "staticwebassets\\images\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\images\\worn-dots.png",
+      "PackagePath": "staticwebassets\\images\\worn-dots.png"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index.html",
+      "PackagePath": "staticwebassets\\js\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index0389.html",
+      "PackagePath": "staticwebassets\\js\\index0389.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index2a60.html",
+      "PackagePath": "staticwebassets\\js\\index2a60.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index350b.html",
+      "PackagePath": "staticwebassets\\js\\index350b.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index38f9.html",
+      "PackagePath": "staticwebassets\\js\\index38f9.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index3dd6.html",
+      "PackagePath": "staticwebassets\\js\\index3dd6.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index7dc1.html",
+      "PackagePath": "staticwebassets\\js\\index7dc1.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\index9a11.html",
+      "PackagePath": "staticwebassets\\js\\index9a11.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\indexd4cd.html",
+      "PackagePath": "staticwebassets\\js\\indexd4cd.html"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\jquery.pagepiling.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.pagepiling.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\SHIVAM\\source\\repos\\MyPortfolio\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
